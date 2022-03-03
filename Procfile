@@ -1,1 +1,1 @@
-worker: python script.py
+worker: python AI_Server.py
