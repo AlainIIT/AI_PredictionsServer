@@ -194,7 +194,7 @@ def mainloop():
         create_input_factors()
 
         count += 1
-        time.sleep(0.2)
+        #time.sleep(0.2)
 
 
     """while count <= 10:
