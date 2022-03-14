@@ -1,4 +1,4 @@
 pandas==1.4.1
-git+https://github.com/ozgur/python-firebase
+firebase-admin==5.2.0
 requests==2.27
 scikit-learn==1.0.2
